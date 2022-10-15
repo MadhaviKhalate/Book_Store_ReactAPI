@@ -1,0 +1,13 @@
+.bookArray{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid black;
+    margin:10vh 15vh 5vh 15vh;
+    flex-wrap: wrap;
+}
+.home_heading{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-left: 100px;
+}

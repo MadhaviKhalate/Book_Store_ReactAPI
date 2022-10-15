@@ -1,0 +1,55 @@
+.mainOfHeader{
+    width:100vw;
+    height:9vh;
+    background-color: #A03037;
+}
+.headerOfMainPage{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.HomePageSearch{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width:41vw;
+    height:90%;
+    border-radius:4px;
+    background-color: white;
+    margin-top: 0.4rem;
+    margin-left: -5rem;
+}
+.searchBar{
+    width:80%;
+    height:100%;
+    border:white;
+    height:5vh;
+}
+.search-icon{
+    padding:0.4rem;
+    color:grey;
+}
+.paraOfBookStore{
+    color:white;
+    margin-left:10px;
+}
+.BookImagePart{
+    display:flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+}
+
+.HomePageProfileAndCartIcon{
+    display:flex;
+    flex-direction: row;
+}
+.pAndC{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 4rem;
+    margin-top: 0.4rem;
+}

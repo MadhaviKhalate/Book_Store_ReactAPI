@@ -1,0 +1,11 @@
+.footerComponent{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width:100vw;
+    height:9vh;
+    background-color: #2E1D1E;
+    margin-top: 80vh;
+    color:white;
+}
